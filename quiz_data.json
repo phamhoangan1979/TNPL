@@ -1,0 +1,162 @@
+[
+  {
+    "Question": "Câu 1: Theo Luật Khiếu nại, khiếu nại là việc gì?",
+    "Option1": "A. Việc công dân, cơ quan, tổ chức thực hiện quyền khiếu nại",
+    "Option2": "B. Việc cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại",
+    "Option3": "C. Việc công dân, cơ quan, tổ chức, cá nhân có thẩm quyền đề nghị xem xét lại quyết định hành chính, hành vi hành chính hoặc quyết định kỷ luật cán bộ, công chức",
+    "Option4": "D. Việc người bị khiếu nại giải quyết khiếu nại liên quan đến quyền, lợi ích của mình",
+    "Answer": 3
+  },
+  {
+    "Question": "Câu 2: Ai là người khiếu nại theo định nghĩa tại Luật Khiếu nại?",
+    "Option1": "A. Cơ quan hành chính nhà nước",
+    "Option2": "B. Công dân Việt Nam, cơ quan, tổ chức, cá nhân nước ngoài tại Việt Nam",
+    "Option3": "C. Cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính bị khiếu nại",
+    "Option4": "D. Công dân, cơ quan, tổ chức thực hiện quyền khiếu nại",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 3: Theo Luật Khiếu nại, người giải quyết khiếu nại là ai?",
+    "Option1": "A. Công dân, cơ quan, tổ chức thực hiện quyền khiếu nại",
+    "Option2": "B. Cơ quan, tổ chức, cá nhân bị khiếu nại",
+    "Option3": "C. Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại",
+    "Option4": "D. Người có quyền và nghĩa vụ liên quan đến vụ việc khiếu nại",
+    "Answer": 3
+  },
+  {
+    "Question": "Câu 4: Quyết định hành chính, hành vi hành chính bị khiếu nại theo Luật Khiếu nại là gì?",
+    "Option1": "A. Văn bản của cơ quan hành chính nhà nước ban hành để giải quyết một vấn đề cụ thể trong hoạt động quản lý hành chính nhà nước được áp dụng một lần đối với một hoặc một số đối tượng cụ thể",
+    "Option2": "B. Hành vi của cơ quan hành chính nhà nước hoặc người có thẩm quyền trong cơ quan hành chính nhà nước thực hiện hoặc không thực hiện nhiệm vụ, công vụ theo quy định của pháp luật",
+    "Option3": "C. Quyết định quy định bằng văn bản của người đứng đầu cơ quan, tổ chức để áp dụng đối với cán bộ, công chức thuộc quyền quản lý của mình",
+    "Option4": "D. Cả A và B đều đúng",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 5: Theo Luật Khiếu nại, trường hợp nào sau đây không được thụ lý giải quyết khiếu nại?",
+    "Option1": "A. Quyết định hành chính, hành vi hành chính thuộc phạm vi bí mật nhà nước",
+    "Option2": "B. Người khiếu nại không có năng lực hành vi dân sự đầy đủ",
+    "Option3": "C. Thời hiệu khiếu nại đã hết mà không có lý do chính đáng",
+    "Option4": "D. Tất cả các trường hợp trên",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 6: Thời hiệu khiếu nại lần đầu đối với quyết định hành chính, hành vi hành chính là bao lâu kể từ ngày nhận được quyết định hoặc biết được hành vi?",
+    "Option1": "A. 30 ngày",
+    "Option2": "B. 45 ngày",
+    "Option3": "C. 60 ngày",
+    "Option4": "D. 90 ngày",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 7: Thời hiệu khiếu nại lần hai đối với quyết định giải quyết khiếu nại lần đầu là bao lâu kể từ ngày nhận được hoặc biết quyết định giải quyết lần đầu?",
+    "Option1": "A. 15 ngày",
+    "Option2": "B. 30 ngày",
+    "Option3": "C. 45 ngày",
+    "Option4": "D. 60 ngày",
+    "Answer": 2
+  },
+  {
+    "Question": "Câu 8: Theo Luật Khiếu nại, người khiếu nại lần đầu có quyền nào sau đây?",
+    "Option1": "A. Được thông báo việc không thụ lý giải quyết khiếu nại của mình",
+    "Option2": "B. Được biết, đọc, sao chụp, sao chép tài liệu, chứng cứ do người giải quyết khiếu nại thu thập",
+    "Option3": "C. Yêu cầu cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu liên quan đến nội dung khiếu nại",
+    "Option4": "D. Tất cả các quyền trên",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 9: Theo Luật Khiếu nại, người khiếu nại có nghĩa vụ nào sau đây?",
+    "Option1": "A. Được nhận quyết định giải quyết khiếu nại lần hai",
+    "Option2": "B. Trình bày nội dung khiếu nại trung thực, đúng đắn, hợp lý",
+    "Option3": "C. Yêu cầu bồi thường, bồi hoàn thiệt hại",
+    "Option4": "D. Khôi phục quyền, lợi ích hợp pháp đã bị xâm phạm",
+    "Answer": 2
+  },
+  {
+    "Question": "Câu 10: Theo Luật Khiếu nại, cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại lần đầu có trách nhiệm gì?",
+    "Option1": "A. Tiếp nhận, thụ lý để giải quyết khiếu nại",
+    "Option2": "B. Tổ chức đối thoại với người khiếu nại, người bị khiếu nại và cơ quan, tổ chức, cá nhân có liên quan",
+    "Option3": "C. Xác minh nội dung khiếu nại",
+    "Option4": "D. Tất cả các trách nhiệm trên",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 11: Theo Thông tư 05/2021/TT-TTCP, \"Đơn\" được hiểu là gì?",
+    "Option1": "A. Đơn khiếu nại, đơn tố cáo",
+    "Option2": "B. Đơn kiến nghị, phản ánh",
+    "Option3": "C. Văn bản có nội dung được trình bày dưới một hình thức theo quy định của pháp luật, gửi đến cơ quan, tổ chức, đơn vị, người có thẩm quyền để khiếu nại hoặc tố cáo hoặc kiến nghị, phản ánh",
+    "Option4": "D. Văn bản yêu cầu bồi thường thiệt hại",
+    "Answer": 3
+  },
+  {
+    "Question": "Câu 12: Theo Thông tư 05/2021/TT-TTCP, đơn được tiếp nhận để phân loại và xử lý từ những nguồn nào sau đây?",
+    "Option1": "A. Đơn được gửi qua dịch vụ bưu chính",
+    "Option2": "B. Đơn được gửi đến Trụ sở tiếp công dân, Ban tiếp công dân, địa điểm tiếp công dân, bộ phận tiếp nhận đơn hoặc qua hộp thư góp ý",
+    "Option3": "C. Đơn do Đại biểu Quốc hội, các cơ quan của Quốc hội và của Ủy ban Thường vụ Quốc hội chuyển đến",
+    "Option4": "D. Tất cả các nguồn trên",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 13: Theo Thông tư 05/2021/TT-TTCP, khi nhận được đơn có cả nội dung khiếu nại, tố cáo, kiến nghị, phản ánh, người xử lý đơn phải làm gì?",
+    "Option1": "A. Chỉ xử lý nội dung khiếu nại, bỏ qua các nội dung khác",
+    "Option2": "B. Chuyển toàn bộ đơn đến cơ quan có thẩm quyền giải quyết khiếu nại",
+    "Option3": "C. Thụ lý giải quyết tất cả các nội dung trong đơn",
+    "Option4": "D. Hướng dẫn người gửi đơn tách riêng từng nội dung để gửi đến đúng cơ quan có thẩm quyền giải quyết",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 14: Theo Thông tư 05/2021/TT-TTCP, khi đơn khiếu nại không thuộc thẩm quyền giải quyết của cơ quan mình, người xử lý đơn phải làm gì?",
+    "Option1": "A. Lưu đơn và không xử lý",
+    "Option2": "B. Hướng dẫn người khiếu nại gửi đơn đến cơ quan có thẩm quyền giải quyết",
+    "Option3": "C. Chuyển đơn đến cơ quan có thẩm quyền giải quyết",
+    "Option4": "D. Báo cáo người đứng đầu để xem xét, quyết định",
+    "Answer": 2
+  },
+  {
+    "Question": "Câu 15: Theo Thông tư 05/2021/TT-TTCP, khi đơn tố cáo không thuộc thẩm quyền giải quyết của cơ quan mình, người xử lý đơn phải làm gì?",
+    "Option1": "A. Hướng dẫn người tố cáo gửi đơn đến cơ quan có thẩm quyền giải quyết",
+    "Option2": "B. Lưu đơn và không xử lý",
+    "Option3": "C. Đề xuất với người đứng đầu chuyển đơn và các thông tin, tài liệu kèm theo (nếu có) đến cơ quan có thẩm quyền giải quyết",
+    "Option4": "D. Báo cáo người đứng đầu để yêu cầu cấp dưới giải quyết",
+    "Answer": 3
+  },
+  {
+    "Question": "Câu 16: Theo Luật Khiếu nại, trong trường hợp có căn cứ cho rằng việc thi hành quyết định hành chính sẽ gây ra hậu quả khó khắc phục thì người giải quyết khiếu nại phải làm gì?",
+    "Option1": "A. Tiếp tục thi hành quyết định hành chính đó",
+    "Option2": "B. Chờ kết quả giải quyết khiếu nại lần đầu",
+    "Option3": "C. Xem xét, quyết định tạm đình chỉ hoặc kiến nghị cơ quan, người có thẩm quyền tạm đình chỉ việc thi hành quyết định hành chính",
+    "Option4": "D. Chuyển vụ việc sang Tòa án",
+    "Answer": 3
+  },
+  {
+    "Question": "Câu 17: Theo Thông tư 05/2021/TT-TTCP, nguyên tắc xử lý đơn là gì?",
+    "Option1": "A. Đảm bảo tuân thủ pháp luật",
+    "Option2": "B. Nhanh chóng, kịp",
+    "Option3": "C. Rõ ràng, thống nhất và tạo điều kiện thuận tiện cho công dân",
+    "Option4": "D. Tất cả các nguyên tắc trên",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 18: Theo Thông tư 05/2021/TT-TTCP, khi đơn khiếu nại thuộc thẩm quyền giải quyết và đủ điều kiện thụ lý, người xử lý đơn phải làm gì?",
+    "Option1": "A. Trả lại đơn cho người khiếu nại",
+    "Option2": "B. Hướng dẫn người khiếu nại bổ sung thông tin, tài liệu",
+    "Option3": "C. Chuyển đơn đến cơ quan cấp trên",
+    "Option4": "D. Đề xuất người đứng đầu cơ quan, tổ chức, đơn vị thụ lý để giải quyết",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 19: Theo Thông tư 05/2021/TT-TTCP, đơn tố cáo đối với đảng viên vi phạm Điều lệ Đảng, chủ trương, nghị quyết, chỉ thị, quy định, quy chế, kết luận của Đảng được xử lý như thế nào?",
+    "Option1": "A. Thụ lý giải quyết theo quy định của Luật Tố cáo",
+    "Option2": "B. Lưu đơn",
+    "Option3": "C. Chuyển đơn đến cơ quan tiến hành tố tụng",
+    "Option4": "D. Chuyển đến cơ quan có thẩm quyền để xử lý theo quy định của Đảng",
+    "Answer": 4
+  },
+  {
+    "Question": "Câu 20: Thời hạn giải quyết khiếu nại lần đầu đối với quyết định hành chính, hành vi hành chính là bao lâu kể từ ngày thụ lý giải quyết?",
+    "Option1": "A. 15 ngày",
+    "Option2": "B. 30 ngày",
+    "Option3": "C. 45 ngày",
+    "Option4": "D. 60 ngày",
+    "Answer": 2
+  }
+]
